@@ -4,3 +4,4 @@
 
 Topic: Cloud Computing
 
+Note: The resource manager and cluster service are currently private. They will be open-sourced in late April.

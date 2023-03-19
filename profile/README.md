@@ -6,4 +6,4 @@ Winter 2023 Topic: Cloud Computing
 
 Still a work in progress :) Please leave some feedback if possible!
 
-![amazing](../amazing.png)
+![amazing](https://raw.githubusercontent.com/awsonbudget/.github/main/profile/amazing.png)
